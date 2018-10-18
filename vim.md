@@ -1,4 +1,9 @@
 # VIM Tips & Tricks
+
+## Numbers
+- `CTRL-A`: add to the number under the cursor
+- `CTRL-X`: substract the number under the cursor
+
 ## Indent Mode
 - `CTRL-T`: indent
 - `CTRL-D`: dedent
